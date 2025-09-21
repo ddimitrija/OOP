@@ -18,7 +18,7 @@ Average : 28 ms
 Insertion Sort :         
 1. 14.8 s                 
 2. 15 s                   
-3. 66 ms                         
+3. 14.9 s                         
 Average : 14.9 s
 Selection sort :
 1. 20.9 s
